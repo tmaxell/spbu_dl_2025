@@ -206,3 +206,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# GPT-2 fine-tuned models
+homeworks/hw3/gpt2-rus-bpe/
